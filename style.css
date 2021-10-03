@@ -662,6 +662,9 @@ a {
 
 .hero-bloc-text {
     font-size: 38px;
+    padding: 30px;
+    
+    background-color: rgba(61, 61, 61, 0.521);
 }
 
 .hero-bloc-text-sub {
@@ -755,7 +758,7 @@ h4 {
 }
 
 .black-background {
-    background-color: rgba(165, 147, 99, 0.7);
+    background-color: rgba(165, 147, 99, 0.8);
     padding: 40px 40px 40px 40px;
 }
 
@@ -773,20 +776,25 @@ h4 {
 }
 
 .bgc-atomic-tangerine {
-    background-color: #F3976C;
+    background-color: #262627;
 }
 
 .tc-white {
     color: #F3976C!important;
 }
 
+.tc-black {
+    color: black!important;;
+}
+
+
 .btn-atomic-tangerine {
     background: #F3976C;
-    color: #FFFFFF!important;
+    color: #262627!important;
 }
 
 .btn-atomic-tangerine:hover {
-    background: #c27956!important;
+    background: #262627!important;
     color: #FFFFFF!important;
 }
 
